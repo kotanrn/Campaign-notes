@@ -6,15 +6,26 @@
 ### Shadowfell: (DMG p.51)
 - Shadow crossings: DMG p.51
 - City of Evernight: DMG p.52
-- : DMG p.
-- : DMG p.
 
 ### Inner / Elemental Planes: (DMG p.53)
 - Elemental Chaos: DMG p.52
 - Plane of Air: DMG p.53
+- - Aaqa: DMG p.53
+- - Sirocco Straits: DMG p.53
 - Plane of Earth: DMG p.54
+- - City of Jewels: DMG p.54
 - Plane of Fire: DMG p.55
-- Plane of Water: DMG p.56
+- - Great Conflagration AKA sometimes called the Plane of Ash: DMG p.53
+- - Fountains of Creation: DMG p.54 & 55
+- - City of Brass: DMG p.55 &
+- - Cinder Wastes: DMG p.55
+- - Sea of Fire: DMG p.55
+- Plane of Water AKA Sea of Worlds: DMG p.56
+- -Frostfell: DMG p.54
+- -Mistral Reach: DMG p.54
+- - Citadel of Ten Thousand Pearls: DMG p.56
+- - Darkened Depths: DMG p.56
+- - Isle of Dread: DMG p.56
 
 ### Traveling the Outer Planes:
 - The River Styx: DMG p.58
@@ -37,12 +48,12 @@
 ### The Windswept Depths of Pandemonium: (DMG p.62)
 
 ### The Infinite Layers of the Abyss: (DMG p.62)
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
+- The Gaping Maw: DMG p.62
+- Thanatos: DMG p.62
+- The Demonweb: DMG p.62
+- The Endless Maze: DMG p.63
+- The Triple Realm: DMG p.63
+- Death DeJll: DMG p.63
 
 ### The Tarterian Depths of Carceri: (DMG p.63)
 
@@ -51,15 +62,15 @@
 ### The Bleak Eternity of Gehenna: (DMG p.63)
 
 ### The Nine Hells of Baator: (DMG p.64)
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
+- Avernus: DMG p.64
+- Dis: DMG p.64
+- Minauros: DMG p.64
+- Phlegethos: DMG p.64
+- Stygia: DMG p.64
+- Malbolge: DMG p.65
+- Maladomini: DMG p.65
+- Cania: DMG p.65
+- Nessus: DMG p.66
 
 ### The Infinite Battlefield of Acheron: (DMG p.66)
 
@@ -68,22 +79,24 @@
 ### The Peaceable Kingdoms of Arcadia: (DMG p.66)
 
 ### The Outlands (Towns that go to other planes): (DMG p.67)
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
-- : DMG p.
+Town | Gate Destination
+---|---
+Excelsior | The Seven Heavens of Mount Celestia
+Tradegate | The Twin Paradises of Bytopia
+Ecstasy | The Blessed Fields of Elysium
+Faunel | The Wilderness of the Beastlands
+Sylvania | The Olympian Glades of Arborea
+Glorium | The Heroic Domains of Ysgard
+Xaos | The Ever-Changing Chaos of Limbo
+Bedlam | The Windswept Depths of Pandemonium
+Plague-Mort | The Infinite Layers of the Abyss
+Curst | The Tarterian Depths of Carceri
+Hopeless | The Gray Waste of Hades
+Torch | The Bleak Eternity of Gehenna
+Ribcage | The Nine Hells of Baator
+Rigus | The Infinite Battlefield of Acheron
+Automata | The Clockwork Nirvana of Mechanus
+Fortitude | The Peaceable Kingdoms of Arcadia
 
 ### The Sigil (Doors that go to other planes): (DMG p.68)
 
