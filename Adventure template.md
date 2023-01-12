@@ -144,7 +144,7 @@ Thing (MM p.)
 ### Resolution: 
 
 
-### Possible Rewards:
+### Possible Rewards (DMG Ch 7, p. 133):
 - x
 - x
 - x
