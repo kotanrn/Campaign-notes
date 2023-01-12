@@ -23,6 +23,13 @@
    A musical singer / bard who bursts sound waves as attacks
 - Level-up training facility
 - Something about a criminal syndicate
+- The lcoal Merchants' Guild is suffering from serial robberies despite a pact with the local Thieves' Guild
+- The local Thieves' Guild is being blamed for a crime spree although the Guild's leader didn't authorize any of it
+- A small group of witches and wizards are in danger from a Voldemort like character
+- Growing corruption among politicians
+- 
+- 
+- 
 - 
 - 
 - 
