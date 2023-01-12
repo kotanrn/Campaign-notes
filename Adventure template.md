@@ -133,11 +133,11 @@ Thing (MM p.)
 
 |Actions|
 |---|
-|stuff|
+| |
 
 |Legendary Actions|Legendary Resistances|Lair Actions|Minion reinforcements|
 |---|---|---|---|
-|stuff|stuff|stuff|stuff|
+| | | | |
 ---
 
 
@@ -145,7 +145,3 @@ Thing (MM p.)
 
 
 ### Possible Rewards (DMG Ch 7, p. 133):
-- x
-- x
-- x
-- x
