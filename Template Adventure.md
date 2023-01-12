@@ -135,9 +135,22 @@ Thing (MM p.)
 |---|
 | |
 
-|Legendary Actions|Legendary Resistances|Lair Actions|Minion reinforcements|
-|---|---|---|---|
-| | | | |
+|Legendary Resistances|
+|---|
+| |
+
+|Legendary Actions|
+|---|
+| |
+
+|Lair Actions|
+|---|
+| |
+
+|Minion reinforcements|
+|---|
+| |
+
 ---
 
 
