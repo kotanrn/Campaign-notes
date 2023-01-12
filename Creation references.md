@@ -116,8 +116,9 @@ Fortitude | The Peaceable Kingdoms of Arcadia
 - Mystara (a heroic-fantasy world born out of the earliest editions of the D&D game): DMG p.68
 
 ## Name generators:
-- Cities: https://www.fantasynamegenerators.com/city-names.php\
+- Cities: https://www.fantasynamegenerators.com/city-names.php
 - Characters: https://www.masterthedungeon.com/dnd-name-generator/
+- Taverns: https://www.fantasynamegenerators.com/inn-names.php
 
 ## Placeholder: (DMG p.)
 - : DMG p.
