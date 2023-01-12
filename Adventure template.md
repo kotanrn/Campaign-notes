@@ -4,13 +4,9 @@
 Fetch, Kill, Delivery, Escort, Protection, Destroy, Investigation, Mystery, Negotiation, Survival, Gather, Push the Button
 
 
-### Inciting Action / Hook: 
-
-
-### Storyline: 
-
-
 ### DM Notes:
+- Create 3x5 cards of rewards
+- From r/dndmaps get 
 - x
 - x
 - x
@@ -30,6 +26,12 @@ Types: Guide, Advancement, Rival, Mentor, Long term (friends & family), Support 
 - x
 - x
 - x
+
+
+### Inciting Action / Hook: 
+
+
+### Storyline: 
 
 
 ### Creatures:
