@@ -16,7 +16,7 @@
 - Folding Boat (DMG p.170)
 - Staff of the Python (DMG p.204)
 - Glaroured Studded Leather (DMG p.172)
-- Wuaal's Feather TOken (DMG p.188)
+- Wuaal's Feather Token (DMG p.188)
 - Eversmoking Bottle (DMG p.168)
 - Eyes of Minute Seeing (DMG p.168)
 - Gem of Brightness (DMG p. 171)
