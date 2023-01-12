@@ -20,9 +20,9 @@ Fetch, Kill, Delivery, Escort, Protection, Destroy, Investigation, Mystery, Nego
 - x
 
 
-### NPCs (DMG p.89):
+### NPCs (DMG p.89 & MM Appendix B):
 Types: Guide, Advancement, Rival, Mentor, Long term (friends & family), Support (handle mundane tasks), Comic reflection
-- x; mechanically XXX DMG p.
+- x; mechanically XXX MM p.
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Types: Guide, Advancement, Rival, Mentor, Long term (friends & family), Support 
 |---|
 |stuff|
 
-- x; mechanically XXX DMG p.
+- x; mechanically XXX MM p.
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
@@ -42,7 +42,7 @@ Types: Guide, Advancement, Rival, Mentor, Long term (friends & family), Support 
 |---|
 |stuff|
 
-- x; mechanically XXX DMG p.
+- x; mechanically XXX MM p.
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
@@ -52,7 +52,7 @@ Types: Guide, Advancement, Rival, Mentor, Long term (friends & family), Support 
 |---|
 |stuff|
 
-- x; mechanically XXX DMG p.
+- x; mechanically MM DMG p.
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
@@ -135,7 +135,7 @@ Thing (MM p.)
 |---|
 |stuff|
 
-|Legenday Actions|Legendary Resistances|Lair Actions|Minion reinforcements|
+|Legendary Actions|Legendary Resistances|Lair Actions|Minion reinforcements|
 |---|---|---|---|
 |stuff|stuff|stuff|stuff|
 ---
