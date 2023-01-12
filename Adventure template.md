@@ -22,10 +22,45 @@ Fetch, Kill, Delivery, Escort, Protection, Destroy, Investigation, Mystery, Nego
 
 ### NPCs (DMG p.89):
 Types: Guide, Advancement, Rival, Mentor, Long term (friends & family), Support (handle mundane tasks), Comic reflection
-- x
-- x
-- x
-- x
+- x; mechanically XXX DMG p.
+
+|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|---|---|
+|||||||||
+
+|Actions|
+|---|
+|stuff|
+
+- x; mechanically XXX DMG p.
+
+|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|---|---|
+|||||||||
+
+|Actions|
+|---|
+|stuff|
+
+- x; mechanically XXX DMG p.
+
+|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|---|---|
+|||||||||
+
+|Actions|
+|---|
+|stuff|
+
+- x; mechanically XXX DMG p.
+
+|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|---|---|
+|||||||||
+
+|Actions|
+|---|
+|stuff|
 
 
 ### Inciting Action / Hook: 
@@ -40,7 +75,7 @@ Thing (MM p.)
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
-|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+|||||||||
 
 |Actions|
 |---|
@@ -50,7 +85,7 @@ Thing (MM p.)
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
-|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+|||||||||
 
 |Actions|
 |---|
@@ -60,7 +95,7 @@ Thing (MM p.)
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
-|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+|||||||||
 
 |Actions|
 |---|
@@ -70,7 +105,7 @@ Thing (MM p.)
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
-|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+|||||||||
 
 |Actions|
 |---|
