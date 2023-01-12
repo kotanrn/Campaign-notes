@@ -129,7 +129,7 @@ Thing (MM p.)
 
 |HP |AC |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|---|---|
-|HP |AC |STR|DEX|CON|INT|WIS|CHA|
+| | | | | | | | |
 
 |Actions|
 |---|
