@@ -24,7 +24,8 @@ Fetch, Kill, Delivery, Escort, Protection, Destroy, Investigation, Mystery, Nego
 - x
 
 
-### NPCs:
+### NPCs (DMG p.89):
+Types: Guide, Advancement, Rival, Mentor, Long term (friends & family), Support (handle mundane tasks), Comic reflection
 - x
 - x
 - x
@@ -75,10 +76,13 @@ Thing (MM p.)
 
 
 ### Random Encounters:
-- Exploration:
-- Traps:
-- Puzzles:
-- Social:
+- Merchants: 
+- Persons in need: 
+- Fireside chat: 
+- Exploration: 
+- Traps: 
+- Puzzles: 
+- Social: 
 - Side quests: Fetch, Kill, Delivery, Escort, Protection, Destroy, Investigation, Mystery, Negotiation, Survival, Gather, Push the Button
 
 
@@ -93,6 +97,10 @@ Thing (MM p.)
 |Actions|
 |---|
 |stuff|
+
+|Legenday Actions|Legendary Resistances|Lair Actions|Minion reinforcements|
+|---|---|---|---|
+|stuff|stuff|stuff|stuff|
 ---
 
 

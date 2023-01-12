@@ -1,0 +1,28 @@
+- Gnome's daughter gets kidnapped
+- Save Pickle Pete
+- Corrupt politician in some city (a ball or dance with IRL invitation)
+- The Dark Cave
+- Orphan needs help (Theft / Heist? Rescue? Documents?)
+- Save the Holiday
+- Floating / Flying Island
+- Tomb of Someone
+- Sudden sinkhole
+- Medic's mission
+- Thieves' Guild (puzzles)
+- Mermaid Girlfriend
+- NPC's family
+- Cobald Fight Club
+- World weapon forging championship 
+- Super rotten egg villian (inspired by Sonic the Hedgehog) 
+- Gang of Frogs
+- Think battling a Ditto from Pokemon
+- Wheel of Fortune
+- Zombie / Necromancer defeat
+- Demon city
+- Elvis
+   A musical singer / bard who bursts sound waves as attacks
+- Level-up training facility
+- Something about a criminal syndicate
+- 
+- 
+- 
