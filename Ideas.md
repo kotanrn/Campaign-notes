@@ -1,2 +1,14 @@
-- jungle series (think Jumanji)
+- Jumanji
+- dragon queen
+- dog sled race
+- "The Avian Province"
+- Hercules and Xena
+- jewel heist
+- Harry Potter wizardry
+- Mortal Kombat / Street Fighter
+- PCs fight each other as a distraction 
+- The Princess Bride
+- Lethal Weapon
+- Die Hard
+- "It's really good to see you Eddie"
 - 
