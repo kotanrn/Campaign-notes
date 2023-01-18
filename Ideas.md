@@ -41,4 +41,9 @@
 - The local Thieves' Guild is being blamed for a crime spree although the Guild's leader didn't authorize any of it
 - A small group of witches and wizards are in danger from a Voldemort like character
 - Growing corruption among politicians
+- dragon aligned elves, orca, etc
+- Jurassic Park: wizards bringing dragons back
+- Clone wars in the Feywild
+- lost pirates of the elemental planes
+- bullywug bandits
 - 
