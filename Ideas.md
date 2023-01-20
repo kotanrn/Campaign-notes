@@ -47,4 +47,5 @@
 - lost pirates of the elemental planes
 - bullywug bandits
 - giant robots / machines
+- cursed diamond mine
 - 
