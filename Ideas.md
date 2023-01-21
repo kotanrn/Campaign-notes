@@ -48,4 +48,5 @@
 - bullywug bandits
 - giant robots / machines
 - cursed diamond mine
+- "There's only one mimic in my campaign."   *later*    "Sometimes when I stare at the moon, it stares back."
 - 
