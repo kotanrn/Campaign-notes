@@ -6,6 +6,7 @@ Investigation
 
 
 ### DM Notes:
+- For character creation, let their starting level be 4 + 2d4
 - Create 3x5 cards of rewards
 - From r/dndmaps get:
 
