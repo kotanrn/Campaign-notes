@@ -8,8 +8,10 @@ Investigation
 ### DM Notes:
 - Create 3x5 cards of rewards
 - From r/dndmaps get:
-  General Region https://www.reddit.com/r/dndmaps/comments/14nj3xe/ask_me_anything_about_my_dd_setting/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-  Circle City https://www.reddit.com/r/dndmaps/comments/14nbebk/my_friend_wanted_a_spiral_city_for_his_campaign/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+General Region https://www.reddit.com/r/dndmaps/comments/14nj3xe/ask_me_anything_about_my_dd_setting/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+Circle City https://www.reddit.com/r/dndmaps/comments/14nbebk/my_friend_wanted_a_spiral_city_for_his_campaign/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
   
 - x
 - x
