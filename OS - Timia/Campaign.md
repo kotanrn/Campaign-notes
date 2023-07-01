@@ -1,7 +1,9 @@
 # Adventure Title
 
 ### Type:
-Fetch, Kill, Delivery, Escort, Protection, Destroy, Investigation, Mystery, Negotiation, Survival, Gather, Push the Button
+Investigation
+b
+Fetch, Kill, Delivery, Escort, Protection, Destroy, , Mystery, Negotiation, Survival, Gather, Push the Button
 
 
 ### DM Notes:
@@ -64,7 +66,7 @@ Types: Guide, Advancement, Rival, Mentor, Long term (friends & family), Support 
 
 
 ### Inciting Action / Hook: 
-
+The party awakens at an inn to a celebration of the previous day's triumph. But the locals don't speak the party's language. 
 
 ### Storyline: 
 
@@ -120,7 +122,7 @@ Thing (MM p.)
 - Traps: 
 - Puzzles: 
 - Social: 
-- Side quests: Fetch, Kill, Delivery, Escort, Protection, Destroy, Investigation, Mystery, Negotiation, Survival, Gather, Push the Button
+- Side quests: Delivery, Push the Button
 
 
 ### Boss:
