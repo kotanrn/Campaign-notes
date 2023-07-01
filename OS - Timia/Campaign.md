@@ -1,9 +1,8 @@
-# Adventure Title
+# I Swear This Isn't A Hangover Ripoff
 
 ### Type:
 Investigation
-b
-Fetch, Kill, Delivery, Escort, Protection, Destroy, , Mystery, Negotiation, Survival, Gather, Push the Button
+
 
 
 ### DM Notes:
