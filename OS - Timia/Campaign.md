@@ -10,7 +10,7 @@ Investigation
 - Create 3x5 cards of rewards
 - From r/dndmaps get:
 
-General Region https://www.reddit.com/r/dndmaps/comments/14nj3xe/ask_me_anything_about_my_dd_setting/
+Kingdom of XXXXX https://www.reddit.com/r/dndmaps/comments/14nj3xe/ask_me_anything_about_my_dd_setting/
 
 Circle City wide https://www.reddit.com/r/dndmaps/comments/14nbebk/my_friend_wanted_a_spiral_city_for_his_campaign/
 
