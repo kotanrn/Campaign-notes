@@ -25,7 +25,7 @@ Northern Cavern City for start https://www.reddit.com/r/dndmaps/comments/14mh33g
 
 
 ### Locations:
-- x
+- The Kingdom of XXXXXXXXXXX
 - x
 - x
 - x
