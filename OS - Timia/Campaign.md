@@ -10,13 +10,17 @@ Investigation
 - Create 3x5 cards of rewards
 - From r/dndmaps get:
 
-Kingdom of XXXXX https://www.reddit.com/r/dndmaps/comments/14nj3xe/ask_me_anything_about_my_dd_setting/
+Kingdom of Tres Nacoes https://www.reddit.com/r/dndmaps/comments/14nj3xe/ask_me_anything_about_my_dd_setting/
 
-Circle City wide https://www.reddit.com/r/dndmaps/comments/14nbebk/my_friend_wanted_a_spiral_city_for_his_campaign/
+Braagos wide https://www.reddit.com/r/dndmaps/comments/14nbebk/my_friend_wanted_a_spiral_city_for_his_campaign/
 
-Circle City close https://www.reddit.com/r/dndmaps/comments/14mxeog/scarlet_summit_settlement_oc_battlemap/
+Braagos close https://www.reddit.com/r/dndmaps/comments/14mxeog/scarlet_summit_settlement_oc_battlemap/
 
-Northern Cavern City for start https://www.reddit.com/r/dndmaps/comments/14mh33g/underground_city/
+Veta https://www.reddit.com/r/dndmaps/comments/14mh33g/underground_city/
+
+Caalu 
+
+Draagos 
 
 - x
 - x
