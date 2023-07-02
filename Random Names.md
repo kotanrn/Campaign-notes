@@ -19,12 +19,8 @@
 - Lubkin Gowalth
 - Meep & Nomeep (Twins)
 - Mave Heypenney
-- 
-- 
-- 
-- 
-- 
-- 
+
+
 https://www.fantasynamegenerators.com/dnd-human-names.php
 
 ### Male
